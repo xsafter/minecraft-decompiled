@@ -8,6 +8,8 @@
 
 Рекомендуемая JDK: 1.8-corretto
 
+Коды клавиш: [здесь](https://www.glfw.org/docs/3.3/group__keys.html)
+
 -----------------
 Только для образовательных целей
 Only for educational purposes
