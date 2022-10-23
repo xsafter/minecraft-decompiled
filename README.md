@@ -6,6 +6,8 @@
 
 Исполняемый класс: com.mojang.minecraft.Minecraft.java
 
+Рекомендуемая JDK: 1.8-corretto
+
 -----------------
 Только для образовательных целей
 Only for educational purposes
